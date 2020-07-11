@@ -1,0 +1,39 @@
+.ibrahim {
+  color: green;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fraise {
+  width: 300px;
+}
+
+.malina {
+  width: 100px;
+}
+
+.fresh {
+  width: 680px;
+  height: 300px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.malina {
+  background-color: #03B1B0;
+  width: 1000px;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
